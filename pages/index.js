@@ -19,9 +19,6 @@ export default function Home({ allPostsData }) {
           Hi i'm Kiril and my name is big bro. I like to play talos and tetrio
           Also one thing about me, is that i love good tv series.
         </p>
-        <Link href="/posts/first-post">
-          <a>Visit my blogpost</a> 
-        </Link>
       </section>
 
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
