@@ -16,8 +16,8 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          Hi i'm Kiril and my name is big bro. I like to play talos and tetrio
-          Also one thing about me, is that i love good tv series.
+          Hi! I'm a huge fan of technology and the way websites are built nowadays.
+          Below are my blog posts where I write about cool tech and stuff. 
         </p>
       </section>
 
